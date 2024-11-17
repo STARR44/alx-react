@@ -1,6 +1,6 @@
-// Import jQuery and Lodash
-import $ from 'jquery';
-import _ from 'lodash';
+const $ = require( "jquery" );
+// Load the full build
+const _ = require("lodash");
 
 // Counter variable to track button clicks
 let count = 0;
