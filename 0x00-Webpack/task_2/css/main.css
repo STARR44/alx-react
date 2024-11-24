@@ -1,0 +1,17 @@
+/* Style for the logo div */
+
+#logo {
+  width: 200px;
+  height: 200px;
+  background-image: url('../assets/holberton-logo.jpg'); /* Path to the logo */
+  background-size: 200px 200px; /* To ensure the image fits perfectly */
+  background-repeat: no-repeat;
+  margin-bottom: 20px; /* Add spacing below the logo */
+}
+
+/* Style for the counter text */
+#count {
+  font-weight: bold; /* Make the text bold */
+  display: inline-block; /* Allow alignment next to the button */
+  margin-left: 10px; /* Add spacing to the right of the button */
+}
