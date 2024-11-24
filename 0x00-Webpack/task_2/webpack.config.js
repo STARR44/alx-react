@@ -36,7 +36,7 @@ module.exports = {
             loader: 'image-webpack-loader',
             options: {
               bypassOnDebug: true, // Skip optimization during debugging
-              disable: false,
+              disable: true,
             },
           },
         ],
