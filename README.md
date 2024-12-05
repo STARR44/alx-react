@@ -1,1 +1,1 @@
-0x00 webpack project
+hands on experience on react projects
